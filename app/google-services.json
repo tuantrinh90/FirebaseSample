@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "589222770606",
+    "firebase_url": "https://fir-sample-ecdeb.firebaseio.com",
+    "project_id": "fir-sample-ecdeb",
+    "storage_bucket": "fir-sample-ecdeb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:589222770606:android:5dff07e4442eaed7",
+        "android_client_info": {
+          "package_name": "com.geeksdeck.firebasesample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "589222770606-d1jsju3njupvaqmr34r20b67m6titgcp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJS8vdX5KUM1xkF5zn-wlActBl0zfm_lE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
